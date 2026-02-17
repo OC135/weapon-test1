@@ -70,6 +70,18 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim923.glb"
 },
+    {
+    "name":"F-15E fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15ef13.glb"
+},
+      {
+    "name":"F-15E fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15ef2.glb"
+},
 {
     "name":"Jetbridge 1",
      "rotation":[0,0,0],
