@@ -86,7 +86,7 @@
     "name":"Jetbridge 1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jwt11.glb"
+    "model": "https://OC135.github.io/test6/pf15e23.glb"
 },
 {
     "name":"Jetbridge 2",
