@@ -95,6 +95,42 @@
     "model": "https://OC135.github.io/test6/f15eaim989.glb"
 },
     {
+    "name":"F-15E AIM-120 #1,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim12014.glb"
+},
+      {
+    "name":"F-15E AIM-120 #2,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim12023.glb"
+},
+    {
+    "name":"F-15E AIM-120 #5,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim120512.glb"
+},
+      {
+    "name":"F-15E AIM-120 #6,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim120611.glb"
+},
+      {
+    "name":"F-15E AIM-120 #7,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim120710.glb"
+},
+      {
+    "name":"F-15E AIM-120 #8,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim12089.glb"
+},
+    {
     "name":"F-15E fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
