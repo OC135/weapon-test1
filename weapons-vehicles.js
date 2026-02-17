@@ -71,6 +71,29 @@
     "model": "https://OC135.github.io/test6/f15eaim923.glb"
 },
     {
+    "name":"F-15E AIM-9 #5,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim9512.glb"
+},
+      {
+    "name":"F-15E AIM-9 #6,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim9611.glb"
+},    {
+    "name":"F-15E AIM-9 #7,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim710.glb"
+},
+      {
+    "name":"F-15E AIM-9 #8,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaim989.glb"
+},
+    {
     "name":"F-15E fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -83,10 +106,10 @@
     "model": "https://OC135.github.io/test6/f15ef2.glb"
 },
 {
-    "name":"Jetbridge 1",
+    "name":"F-15E pylon2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/pf15e30.glb"
+    "model": "https://OC135.github.io/test6/pf15e32.glb"
 },
 {
     "name":"Jetbridge 2",
