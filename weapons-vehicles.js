@@ -85,7 +85,7 @@
     "name":"F-15E AIM-9 #7,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15eaim710.glb"
+    "model": "https://OC135.github.io/test6/f15eaim9710.glb"
 },
       {
     "name":"F-15E AIM-9 #8,9",
