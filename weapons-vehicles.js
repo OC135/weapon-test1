@@ -34,13 +34,13 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12034.glb"
 },
-     {
+{
     "name":"F-16C GBU-31 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cgbu3114.glb"
 },
-     {
+{
     "name":"F-16C GBU-31 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
