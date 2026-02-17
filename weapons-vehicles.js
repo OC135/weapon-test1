@@ -16,6 +16,24 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim934.glb"
 },
+{
+    "name":"F-16C AIM-120 #1,6",
+    "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caim916.glb"
+},
+{
+    "name":"F-16C AIM-120 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caim925.glb"
+},
+    {
+    "name":"F-16C AIM-120 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caim934.glb"
+},
      {
     "name":"F-16C fuel tank #1,3",
      "rotation":[0,0,0],
