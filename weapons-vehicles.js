@@ -59,16 +59,16 @@
     "model": "https://OC135.github.io/test6/f16cf2.glb"
 },
     {
-    "name":"Cargo ramp",
+    "name":"F-15E AIM-9 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/a3test_427352_3436/cargo_ramp8.glb"
+    "model": "https://OC135.github.io/test6/f15eaim914.glb"
 },
       {
-    "name":"Fire truck",
+    "name":"F-15E AIM-9 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/firetruck1.glb"
+    "model": "https://OC135.github.io/test6/f15eaim923.glb"
 },
 {
     "name":"Jetbridge 1",
