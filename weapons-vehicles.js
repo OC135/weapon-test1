@@ -10,7 +10,7 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim925.glb"
 },
-{
+    {
     "name":"F-16C AIM-9 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -28,43 +28,31 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12025.glb"
 },
-{
+    {
     "name":"F-16C AIM-120 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12034.glb"
-}, 
-{
-    "name":"F-16C GBU-31 #1,4",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16cgbu3114.glb"
 },
-{
-    "name":"F-16C GBU-31 #2,3",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16cgbu3123.glb"
-},
-{
+     {
     "name":"F-16C fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cf13.glb"
 },
-{
+     {
     "name":"F-16C fuel tank #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16cf2.glb"
 },
-{
+    {
     "name":"Cargo ramp",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "../../../../backend/aircraft/repository/a3test_427352_3436/cargo_ramp8.glb"
 },
-{
+      {
     "name":"Fire truck",
      "rotation":[0,0,0],
     "position":[0,0,0],
