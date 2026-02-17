@@ -131,6 +131,30 @@
     "model": "https://OC135.github.io/test6/f15eaim12089.glb"
 },
     {
+    "name":"F-15E GBU-31 #1.7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu3117.glb"
+},
+      {
+    "name":"F-15E GBU-31 #2,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu3126.glb"
+},
+    {
+    "name":"F-15E GBU-31 #3,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu3135.glb"
+},
+      {
+    "name":"F-15E GBU-31 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu314.glb"
+},
+    {
     "name":"F-15E fuel tank #1,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
