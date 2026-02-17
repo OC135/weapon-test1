@@ -5,7 +5,7 @@
     "model": "https://OC135.github.io/test6/f16caim916.glb"
 },
 {
-    "name":"Fuel Truck",
+    "name":"F-16C AIM-9 #2,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim925.glb"
