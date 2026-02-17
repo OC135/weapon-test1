@@ -86,7 +86,7 @@
     "name":"Jetbridge 1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/pf15e27.glb"
+    "model": "https://OC135.github.io/test6/pf15e28.glb"
 },
 {
     "name":"Jetbridge 2",
