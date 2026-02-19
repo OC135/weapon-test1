@@ -230,48 +230,6 @@ Prototype bullet)",
     "model": "https://OC135.github.io/test6/aam3tf2a34.glb"
 },
 {
-    "name":"F-2A AAM-3 #1,6 (
-Captive ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3uf2a16.glb"
-},
-{
-    "name":"F-2A AAM-3 #2,5 (
-Captive ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3uf2a25.glb"
-},
-{
-    "name":"F-2A AAM-3 #3,4 (
-Captive ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3uf2a34.glb"
-},
-{
-    "name":"F-2A AAM-3 #1,6 (
-live ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3lf2a16.glb"
-},
-{
-    "name":"F-2A AAM-3 #2,5 (
-live ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3lf2a25.glb"
-},
-{
-    "name":"F-2A AAM-3 #3,4 (
-live ammunition)",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3lf2a34.glb"
-},
-{
     "name":"Jetbridge 5",
      "rotation":[0,0,0],
     "position":[0,0,0],
