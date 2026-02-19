@@ -209,28 +209,58 @@
     "model": "https://OC135.github.io/test6/pf15e32.glb"
 },
 {
-    "name":"Jetbridge 2",
+    "name":"F-2A AAM-3 #1,6 Prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jwt6.glb"
+    "model": "https://OC135.github.io/test6/aam3tf2a16.glb"
 },
 {
-    "name":"Jetbridge 3",
+    "name":"F-2A AAM-3 #2,5 Prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jetwaytruck4.glb"
+    "model": "https://OC135.github.io/test6/aam3tf2a25.glb"
 },
 {
-    "name":"Jetbridge 4",
+    "name":"F-2A AAM-3 #3,4 Prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jwt8.glb"
+    "model": "https://OC135.github.io/test6/aam3tf2a34.glb"
 },
 {
-    "name":"Jetbridge 5",
+    "name":"F-2A AAM-3 #1,6 Captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Boeing 737-600_427352_5203/jwt12.glb"
+    "model": "https://OC135.github.io/test6/aam3uf2a16.glb"
+},
+{
+    "name":"F-2A AAM-3 #2,5 Captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3uf2a25.glb"
+},
+{
+    "name":"F-2A AAM-3 #3,4 Captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3uf2a34.glb"
+},
+{
+    "name":"F-2A AAM-3 #1,6 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3lf2a16.glb"
+},
+{
+    "name":"F-2A AAM-3 #2,5 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3lf2a25.glb"
+},
+{
+    "name":"F-2A AAM-3 #3,4 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3lf2a34.glb"
 },{
     "name":"Airport Gate (Left)",
      "rotation":[0,0,0],
