@@ -209,22 +209,22 @@
     "model": "https://OC135.github.io/test6/pf15e32.glb"
 },
 {
-    "name":"F-2A AAM-3 #1,6 Prototype bullet",
+    "name":"Jetbridge 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3tf2a16.glb"
+    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jwt6.glb"
 },
 {
-    "name":"F-2A AAM-3 #2,5 Prototype bullet",
+    "name":"Jetbridge 3",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3tf2a25.glb"
+    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jetwaytruck4.glb"
 },
 {
-    "name":"F-2A AAM-3 #3,4 Prototype bullet",
+    "name":"Jetbridge 4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aam3tf2a34.glb"
+    "model": "../../../../backend/aircraft/repository/Airbus a321-211 _427352_5086/jwt8.glb"
 },
 {
     "name":"Jetbridge 5",
