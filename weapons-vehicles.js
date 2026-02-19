@@ -1,35 +1,35 @@
 [{
-    "name":"F-16C AIM-9 #1,6",
+    "name":"F-16C,F-2A AIM-9 #1,6",
     "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim916.glb"
 },
 {
-    "name":"F-16C AIM-9 #2,5",
+    "name":"F-16C,F-2A AIM-9 #2,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim925.glb"
 },
 {
-    "name":"F-16C AIM-9 #3,4",
+    "name":"F-16C,F-2A AIM-9 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim934.glb"
 },
 {
-    "name":"F-16C AIM-120 #1,6",
+    "name":"F-16C,F-2A AIM-120 #1,6",
     "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12016.glb"
 },
 {
-    "name":"F-16C AIM-120 #2,5",
+    "name":"F-16C,F-2A AIM-120 #2,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12025.glb"
 },
 {
-    "name":"F-16C AIM-120 #3,4",
+    "name":"F-16C,F-2A AIM-120 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f16caim12034.glb"
@@ -59,13 +59,13 @@
     "model": "https://OC135.github.io/test6/f16cf2.glb"
 },
     {
-    "name":"F-15E AIM-9 #1,4",
+    "name":"F-15E,F-15J AIM-9 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim914.glb"
 },
       {
-    "name":"F-15E AIM-9 #2,3",
+    "name":"F-15E,F-15J AIM-9 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim923.glb"
@@ -95,13 +95,13 @@
     "model": "https://OC135.github.io/test6/f15eaim989.glb"
 },
     {
-    "name":"F-15E AIM-120 #1,4",
+    "name":"F-15E,F-15J AIM-120 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim12014.glb"
 },
       {
-    "name":"F-15E AIM-120 #2,3",
+    "name":"F-15E,F-15J AIM-120 #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15eaim12023.glb"
@@ -378,10 +378,10 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ff2a2.glb"
 },{
-    "name":"Airport Gate#2 level 3",
+    "name":"AMRAAM GOD",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/gate_3.glb"
+    "model": "https://OC135.github.io/test6/aim120g.glb"
 },
 {
     "name":"Airport Gate#3 level 1",
