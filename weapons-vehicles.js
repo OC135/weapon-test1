@@ -297,6 +297,42 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam4lf2a34.glb"
+},
+{
+    "name":"F-2A AAM-5 #1,6 Captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5df2a16.glb"
+},
+{
+    "name":"F-2A AAM-5 #2,5 Captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5df2a25.glb"
+},
+{
+    "name":"F-2A AAM-5 #3,4 Captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5df2a34.glb"
+},
+{
+    "name":"F-2A AAM-5 #1,6 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5lf2a16.glb"
+},
+{
+    "name":"F-2A AAM-5 #2,5 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5lf2a25.glb"
+},
+{
+    "name":"F-2A AAM-5 #3,4 live ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5lf2a34.glb"
 },{
     "name":"Airport Gate (Left)",
      "rotation":[0,0,0],
