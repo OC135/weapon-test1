@@ -209,37 +209,37 @@
     "model": "https://OC135.github.io/test6/pf15e32.glb"
 },
 {
-    "name":"F-2A AAM-3 #1,6 Prototype bullet",
+    "name":"F-2A AAM-3 #1,6 prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a16.glb"
 },
 {
-    "name":"F-2A AAM-3 #2,5 Prototype bullet",
+    "name":"F-2A AAM-3 #2,5 prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a25.glb"
 },
 {
-    "name":"F-2A AAM-3 #3,4 Prototype bullet",
+    "name":"F-2A AAM-3 #3,4 prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a34.glb"
 },
 {
-    "name":"F-2A AAM-3 #1,6 Captive ammunition",
+    "name":"F-2A AAM-3 #1,6 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3uf2a16.glb"
 },
 {
-    "name":"F-2A AAM-3 #2,5 Captive ammunition",
+    "name":"F-2A AAM-3 #2,5 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3uf2a25.glb"
 },
 {
-    "name":"F-2A AAM-3 #3,4 Captive ammunition",
+    "name":"F-2A AAM-3 #3,4 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3uf2a34.glb"
@@ -263,19 +263,19 @@
     "model": "https://OC135.github.io/test6/aam3lf2a34.glb"
 },
 {
-    "name":"F-2A AAM-4 #1,6 Captive ammunition",
+    "name":"F-2A AAM-4 #1,6 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam4df2a16.glb"
 },
 {
-    "name":"F-2A AAM-4 #2,5 Captive ammunition",
+    "name":"F-2A AAM-4 #2,5 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam4df2a25.glb"
 },
 {
-    "name":"F-2A AAM-4 #3,4 Captive ammunition",
+    "name":"F-2A AAM-4 #3,4 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam4df2a34.glb"
@@ -299,19 +299,19 @@
     "model": "https://OC135.github.io/test6/aam4lf2a34.glb"
 },
 {
-    "name":"F-2A AAM-5 #1,6 Captive ammunition",
+    "name":"F-2A AAM-5 #1,6 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam5df2a16.glb"
 },
 {
-    "name":"F-2A AAM-5 #2,5 Captive ammunition",
+    "name":"F-2A AAM-5 #2,5 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam5df2a25.glb"
 },
 {
-    "name":"F-2A AAM-5 #3,4 Captive ammunition",
+    "name":"F-2A AAM-5 #3,4 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam5df2a34.glb"
@@ -334,27 +334,37 @@
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam5lf2a34.glb"
 },{
-    "name":"Airport Gate (Left)",
+    "name":"F-2A ASM-2 #1,2 prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/SAAB%20340_427352_2892/gate2.glb"
+    "model": "https://OC135.github.io/test6/asm2tf2a12.glb"
 },{
-    "name":"Airport Gate (Right)",
+    "name":"F-2A ASM-2 #1,2 dummy bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/SAAB%20340_427352_2892/gate1.glb"
+    "model": "https://OC135.github.io/test6/asm2df2a12.glb"
+},{
+    "name":"F-2A ASM-2 #1,2 live bullet1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/asm2l1f2a12.glb"
+},{
+    "name":"F-2A ASM-2 #1,2 live bullet2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/asm2l2f2a12.glb"
 },
 {
-    "name":"Airport Gate#2 level 1",
+    "name":"F-2A ASM-3 #1,2 prototype bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/gate_1.glb"
+    "model": "https://OC135.github.io/test6/asm3tf2a12.glb"
 },
 {
-    "name":"Airport Gate#2 level 2",
+    "name":"F-2A ASM-3 #1,2 live bullet",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/gate_2.glb"
+    "model": "https://OC135.github.io/test6/asm3df2a12.glb"
 },{
     "name":"Airport Gate#2 level 3",
      "rotation":[0,0,0],
