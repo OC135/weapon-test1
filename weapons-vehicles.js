@@ -209,22 +209,19 @@
     "model": "https://OC135.github.io/test6/pf15e32.glb"
 },
 {
-    "name":"F-2A AAM-3 #1,6 (
-Prototype bullet)",
+    "name":"F-2A AAM-3 #1,6 (Prototype bullet)",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a16.glb"
 },
 {
-    "name":"F-2A AAM-3 #2,5 (
-Prototype bullet)",
+    "name":"F-2A AAM-3 #2,5 (Prototype bullet)",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a25.glb"
 },
 {
-    "name":"F-2A AAM-3 #3,4 (
-Prototype bullet)",
+    "name":"F-2A AAM-3 #3,4 (Prototype bullet)",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aam3tf2a34.glb"
