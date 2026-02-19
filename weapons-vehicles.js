@@ -384,10 +384,52 @@
     "model": "https://OC135.github.io/test6/aim120g.glb"
 },
 {
-    "name":"Airport Gate#3 level 1",
+    "name":"F-15J AAM-3 #1,4 captive ammunition",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Bombardier Learjet 45 XR_427352_5073/jb31.glb"
+    "model": "https://OC135.github.io/test6/aam3cf15j14.glb"
+},
+{
+    "name":"F-15J AAM-3 #2,3 captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3cf15j23.glb"
+},
+{
+    "name":"F-15J AAM-3 #1,4 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3lf15j14.glb"
+},
+{
+    "name":"F-15J AAM-3 #2,3 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam3lf15j23.glb"
+},
+{
+    "name":"F-15J AAM-5 #1,4 captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5cf15j14.glb"
+},
+{
+    "name":"F-15J AAM-5 #2,3 captive ammunition",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5cf15j23.glb"
+},
+{
+    "name":"F-15J AAM-5 #1,4 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5lf15j14.glb"
+},
+{
+    "name":"F-15J AAM-5 #2,3 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam5lf15j23.glb"
 },
 {
     "name":"Airport Gate#3 level 2",
