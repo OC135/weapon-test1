@@ -432,6 +432,42 @@
     "model": "https://OC135.github.io/test6/aam5lf15j23.glb"
 },
 {
+    "name":"F-15J AAM-4 #1,8 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam4lf15j18.glb"
+},
+{
+    "name":"F-15J AAM-4 #2,7 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam4lf15j27.glb"
+},
+{
+    "name":"F-15J AAM-4 #3,6 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam4lf15j36.glb"
+},
+{
+    "name":"F-15J AAM-4 #4,5 live bullet",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aam4lf15j45.glb"
+},
+{
+    "name":"F-15J fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ff15j13.glb"
+},
+{
+    "name":"F-15J fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ff15j2.glb"
+},
+{
     "name":"Airport Gate#3 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
