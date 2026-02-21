@@ -468,7 +468,7 @@
     "model": "https://OC135.github.io/test6/ff15j2.glb"
 },
 {
-    "name":"F-15J Mk.82 #1,2",
+    "name":"F-15J Mk82 #1,2",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/mk82f15j12.glb"
