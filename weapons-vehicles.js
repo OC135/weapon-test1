@@ -468,10 +468,10 @@
     "model": "https://OC135.github.io/test6/ff15j2.glb"
 },
 {
-    "name":"Airport Gate#3 level 2",
+    "name":"F-15J Mk.82 #1,2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Bombardier Learjet 45 XR_427352_5073/jb32.glb"
+    "model": "https://OC135.github.io/test6/mk82f15j12.glb"
 },
     {
     "name":"Airport Gate#3 level 3",
