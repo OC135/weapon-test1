@@ -474,10 +474,10 @@
     "model": "https://OC135.github.io/test6/mk82f15j12.glb"
 },
     {
-    "name":"Airport Gate#3 level 3",
+    "name":"EA-18G",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/Bombardier Learjet 45 XR_427352_5073/jb33.glb"
+    "model": "https://OC135.github.io/test6/ea18g.glb"
 },
 {
     "name":"Airport Gate#4 level 1",
