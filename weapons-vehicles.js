@@ -603,7 +603,7 @@
     "name":"E-3,E-767 radome",
      "rotation":[0,-10,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/r1.glb"
+    "model": "https://OC135.github.io/test6/r2.glb"
 },
 {
     "name":"A-50 radome",
