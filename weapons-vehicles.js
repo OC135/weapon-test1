@@ -601,27 +601,27 @@
 },
 {
     "name":"E-3,E-767 radome",
-     "rotation":[0,-10,0],
+     "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/r2.glb"
 },
 {
     "name":"A-50 radome",
-     "rotation":[0,-10,0],
+     "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test3/A-50 8.glb"
+    "model": "https://OC135.github.io/test6/r3.glb"
 },
 {
     "name":"E-4B radome",
-     "rotation":[0,-10,0],
+     "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/E412.glb"
+    "model": "https://OC135.github.io/test6/r4.glb"
 },
 {
     "name":"E-8C radome",
-     "rotation":[0,-10,0],
+     "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/e8c2.glb"
+    "model": "https://OC135.github.io/test6/r5.glb"
 },
 {
     "name":"P-1 engine",
