@@ -600,6 +600,54 @@
     "model": "https://OC135.github.io/test6/ff18e6.glb"
 },
 {
+    "name":"E-3,E-767 radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test3/radome.glb"
+},
+{
+    "name":"A-50 radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test3/A-50 8.glb"
+},
+{
+    "name":"E-4B radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/E412.glb"
+},
+{
+    "name":"E-8C radome",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/e8c2.glb"
+},
+{
+    "name":"P-1 engine",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/p128.glb"
+},
+{
+    "name":"UH-60J JASDF",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://yamamofly1.github.io/UH60J/UH60J_ocean.glb"
+},
+{
+    "name":"UH-60J JGSDF",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/JGSDFUH60.glb"
+},
+{
+    "name":"SH-60J JMSDF",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/SH60J30.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
