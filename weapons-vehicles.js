@@ -594,6 +594,12 @@
     "model": "https://OC135.github.io/test6/ffa18e3.glb"
 },
 {
+    "name":"FA-18F conformal fuel tank",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e6.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
