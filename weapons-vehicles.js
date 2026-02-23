@@ -480,10 +480,64 @@
     "model": "https://OC135.github.io/test6/ea18g.glb"
 },
 {
-    "name":"Airport Gate#4 level 1",
+    "name":"FA-18F AIM-9 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "../../../../backend/aircraft/repository/a3test_427352_3436/gate_5.glb"
+    "model": "https://OC135.github.io/test6/aim9fa18e110.glb"
+},
+{
+    "name":"FA-18F AIM-9 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim9fa18e29.glb"
+},
+{
+    "name":"FA-18F AIM-9 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim9fa18e38.glb"
+},
+{
+    "name":"FA-18F AIM-9 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim9fa18e47.glb"
+},
+{
+    "name":"FA-18F AIM-9 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim9fa18e56.glb"
+},
+{
+    "name":"FA-18F AIM-120 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim120fa18e110.glb"
+},
+{
+    "name":"FA-18F AIM-120 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim120fa18e29.glb"
+},
+{
+    "name":"FA-18F AIM-120 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim120fa18e38.glb"
+},
+{
+    "name":"FA-18F AIM-120 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim120fa18e47.glb"
+},
+{
+    "name":"FA-18F AIM-120 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aim120fa18e56.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
