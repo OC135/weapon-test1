@@ -540,6 +540,42 @@
     "model": "https://OC135.github.io/test6/aim120fa18e56.glb"
 },
 {
+    "name":"FA-18F GBU-32 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu32fa18e16.glb"
+},
+{
+    "name":"FA-18F GBU-32 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu32fa18e25.glb"
+},
+{
+    "name":"FA-18F GBU-32 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu32fa18e34.glb"
+},
+{
+    "name":"FA-18F GBU-31 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu31fa18e15.glb"
+},
+{
+    "name":"FA-18F GBU-31 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu31fa18e24.glb"
+},
+{
+    "name":"FA-18F GBU-31 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/gbu31fa18e3.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
