@@ -576,6 +576,24 @@
     "model": "https://OC135.github.io/test6/gbu31fa18e3.glb"
 },
 {
+    "name":"FA-18F fuel tank #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e15.glb"
+},
+{
+    "name":"FA-18F fuel tank #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e24.glb"
+},
+{
+    "name":"FA-18F fuel tank #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/ffa18e3.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
