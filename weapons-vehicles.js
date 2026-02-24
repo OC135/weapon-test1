@@ -681,13 +681,13 @@
     "name":"KC-46 boom off",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/k461.glb"
+    "model": "https://OC135.github.io/test6/k463.glb"
 },
 {
     "name":"KC-46 boom on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/k462.glb"
+    "model": "https://OC135.github.io/test6/k464.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
