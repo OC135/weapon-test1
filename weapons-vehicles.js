@@ -663,19 +663,19 @@
     "name":"KC-10 boom off",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10boff.glb"
+    "model": "https://OC135.github.io/test6/k105.glb"
 },
 {
     "name":"KC-10 boom on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10bon.glb"
+    "model": "https://OC135.github.io/test6/k106.glb"
 },
 {
     "name":"KC-10 drogue on",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/kc10don.glb"
+    "model": "https://OC135.github.io/test6/k107.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
