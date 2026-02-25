@@ -720,6 +720,18 @@
     "model": "https://OC135.github.io/test6/a400don.glb"
 },
 {
+    "name":"A400M rafale 1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a400drafale1.glb"
+},
+{
+    "name":"A400M rafale 2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a400drafale2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
