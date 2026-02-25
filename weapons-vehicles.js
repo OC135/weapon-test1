@@ -690,6 +690,24 @@
     "model": "https://OC135.github.io/test6/k464.glb"
 },
 {
+    "name":"A330MRTT all off",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mrttbdoff.glb"
+},
+{
+    "name":"A330MRTT boom on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mrttbon.glb"
+},
+{
+    "name":"A330MRTT drogue on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mrttdon.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
