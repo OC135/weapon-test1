@@ -738,6 +738,18 @@
     "model": "https://OC135.github.io/test6/raff35bff1.glb"
 },
 {
+    "name":"A330MRTT F-35B #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mrttf35b1.glb"
+},
+{
+    "name":"A330MRTT F-35B #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mrttf35b2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
