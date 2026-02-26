@@ -750,6 +750,12 @@
     "model": "https://OC135.github.io/test6/mrttf35b2.glb"
 },
 {
+    "name":"KC-46 A400M",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/k767a400.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
