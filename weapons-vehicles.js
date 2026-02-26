@@ -648,6 +648,12 @@
     "model": "https://OC135.github.io/test6/SH60J30.glb"
 },
 {
+    "name":"MH-60M US.Army",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/mh601.glb"
+},
+{
     "name":"KC-767 boom off",
      "rotation":[0,0,0],
     "position":[0,0,0],
