@@ -600,6 +600,13 @@
     "model": "https://OC135.github.io/test6/ff18e6.glb"
 },
 {
+    "name":"Blue impulse fuel tank",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/bif1.glb"
+},
+{
+{
     "name":"E-3,E-767 radome",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -750,7 +757,7 @@
     "model": "https://OC135.github.io/test6/mrttf35b2.glb"
 },
 {
-    "name":"KC-46 A400M",
+    "name":"KC-767 A400M",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/k767a400.glb"
