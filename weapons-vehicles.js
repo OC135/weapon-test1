@@ -600,13 +600,6 @@
     "model": "https://OC135.github.io/test6/ff18e6.glb"
 },
 {
-    "name":"Blue impulse fuel tank",
-     "rotation":[0,0,0],
-    "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/bif1.glb"
-},
-{
-{
     "name":"E-3,E-767 radome",
      "rotation":[0,0,0],
     "position":[0,0,0],
@@ -761,6 +754,12 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/k767a400.glb"
+},
+{
+    "name":"blue impulse",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/bif1.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
