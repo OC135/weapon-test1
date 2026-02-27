@@ -726,16 +726,16 @@
     "model": "https://OC135.github.io/test6/a400don.glb"
 },
 {
-    "name":"A400M rafale 1",
+    "name":"A400M MH-60M #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a400drafale1.glb"
+    "model": "https://OC135.github.io/test6/a400dmh601.glb"
 },
 {
-    "name":"A400M rafale 2",
+    "name":"A400M MH-60M #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a400drafale2.glb"
+    "model": "https://OC135.github.io/test6/a400dmh602.glb"
 },
 {
     "name":"RAF F-35B formation flight",
