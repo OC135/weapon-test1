@@ -771,13 +771,13 @@
     "name":"A400M UH-60J #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a400duh601.glb"
+    "model": "https://OC135.github.io/test6/a400uh601.glb"
 },
 {
     "name":"A400M UH-60J #2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a400duh602.glb"
+    "model": "https://OC135.github.io/test6/a400uh602.glb"
 },
 {
     "name":"KC-135R all off",
