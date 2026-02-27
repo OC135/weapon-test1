@@ -816,6 +816,36 @@
     "model": "https://OC135.github.io/test6/kc10f35a1.glb"
 },
 {
+    "name":"KC-46 F-35A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f35a1.glb"
+},
+{
+    "name":"KC-135R F-35A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135f35a1.glb"
+},
+{
+    "name":"KC-10 F-22A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10f22a1.glb"
+},
+{
+    "name":"KC-46 F-22A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f22a1.glb"
+},
+{
+    "name":"KC-135R F-22A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135f22a1.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
