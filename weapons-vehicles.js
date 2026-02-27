@@ -891,7 +891,7 @@
     "name":"nimitz",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/nimitz1.glb"
+    "model": "https://OC135.github.io/test6/nimitz2.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
