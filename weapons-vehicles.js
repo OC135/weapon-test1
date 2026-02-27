@@ -882,6 +882,12 @@
     "model": "https://OC135.github.io/test6/kc135rf18f3.glb"
 },
 {
+    "name":"KC-10 FA-18F",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10f18f1.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
