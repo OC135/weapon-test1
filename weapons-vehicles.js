@@ -888,6 +888,12 @@
     "model": "https://OC135.github.io/test6/kc10f18f1.glb"
 },
 {
+    "name":"nimitz",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/nimitz1.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
