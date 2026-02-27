@@ -846,6 +846,42 @@
     "model": "https://OC135.github.io/test6/kc135f22a1.glb"
 },
 {
+    "name":"KC-10 F-15E",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc10f15e1.glb"
+},
+{
+    "name":"KC-46 F-15E",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc46f15e1.glb"
+},
+{
+    "name":"KC-135R F-15E",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135f15e1.glb"
+},
+{
+    "name":"KC-135R FA-18F #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135rf18f1.glb"
+},
+{
+    "name":"KC-135R FA-18F #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135rf18f2.glb"
+},
+{
+    "name":"KC-135R FA-18F #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135rf18f3.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
