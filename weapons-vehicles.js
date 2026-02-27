@@ -768,6 +768,48 @@
     "model": "https://OC135.github.io/test6/bif1.glb"
 },
 {
+    "name":"A400M UH-60J #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a400duh601.glb"
+},
+{
+    "name":"A400M UH-60J #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a400duh602.glb"
+},
+{
+    "name":"KC-135R all off",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6kc135boff.glb"
+},
+{
+    "name":"KC-135R drogue #1,3 on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b13on.glb"
+},
+{
+    "name":"KC-135R drogue #2 air",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b2air.glb"
+},
+{
+    "name":"KC-135R drogue #2 ground",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b2ground.glb"
+},
+{
+    "name":"KC-135R drogue #2 on",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kc135b2on.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
