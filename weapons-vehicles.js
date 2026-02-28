@@ -897,7 +897,7 @@
     "name":"F-15J formation flight",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f15jff.glb"
+    "model": "https://OC135.github.io/test6/f15jff1.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
