@@ -918,6 +918,12 @@
     "model": "https://OC135.github.io/test6/kc46e41.glb"
 },
 {
+    "name":"kaape",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/kaape.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
