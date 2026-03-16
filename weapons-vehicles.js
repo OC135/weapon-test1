@@ -987,7 +987,7 @@
     "name":"A-10C GBU-38 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/a10cgbu3856110.glb"
+    "model": "https://OC135.github.io/test6/a10cgbu38110.glb"
 },
 {
     "name":"A-10C GBU-38 #2,9",
