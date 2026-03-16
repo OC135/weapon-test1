@@ -984,6 +984,84 @@
     "model": "https://OC135.github.io/test6/a10cagm654.glb"
 },
 {
+    "name":"A-10C GBU-38 #1,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3856110.glb"
+},
+{
+    "name":"A-10C GBU-38 #2,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3829.glb"
+},
+{
+    "name":"A-10C GBU-38 #3,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3838.glb"
+},
+{
+    "name":"A-10C GBU-38 #4,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3847.glb"
+},
+{
+    "name":"A-10C GBU-38 #5,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3856.glb"
+},
+{
+    "name":"A-10C GBU-31 #1,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu31111.glb"
+},
+{
+    "name":"A-10C GBU-31 #2,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu31210.glb"
+},
+{
+    "name":"A-10C GBU-31 #3,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3139.glb"
+},
+{
+    "name":"A-10C GBU-31 #4,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3148.glb"
+},
+{
+    "name":"A-10C GBU-31 #5,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu3157.glb"
+},
+{
+    "name":"A-10C GBU-31 #6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cgbu316.glb"
+},
+{
+    "name":"A-10C fuel tank#1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cf13.glb"
+},
+{
+    "name":"A-10C fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10cf2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
