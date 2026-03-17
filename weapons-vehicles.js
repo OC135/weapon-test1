@@ -1158,6 +1158,12 @@
     "model": "https://OC135.github.io/test6/rafalef2.glb"
 },
 {
+    "name":"RG182 weapon",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/182RGweapon.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
