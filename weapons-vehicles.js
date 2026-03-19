@@ -1188,6 +1188,24 @@
     "model": "https://OC135.github.io/test6/f15gbu122.glb"
 },
 {
+    "name":"Su-35 fuel tank #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35f15.glb"
+},
+{
+    "name":"Su-35 fuel tank #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35f24.glb"
+},
+{
+    "name":"Su-35 fuel tank #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/su35f3.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
