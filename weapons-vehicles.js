@@ -1404,6 +1404,36 @@
     "model": "https://OC135.github.io/test6/ffa18e3vfa213.glb"
 },
 {
+    "name":"Mirage2000-5 MICA IR #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m205micair16.glb"
+},
+{
+    "name":"Mirage2000-5 MICA IR #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m205micair25.glb"
+},
+{
+    "name":"Mirage2000-5 MICA IR #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m205micair34.glb"
+},
+{
+    "name":"Mirage2000-5 fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m205f13.glb"
+},
+{
+    "name":"Mirage2000-5 fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m205f2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
