@@ -1458,6 +1458,48 @@
     "model": "https://OC135.github.io/test6/f16gbu12231.glb"
 },
 {
+    "name":"F-15E GBU-12 #1,13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12113.glb"
+},
+{
+    "name":"F-15E GBU-12 #2,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12212.glb"
+},
+{
+    "name":"F-15E GBU-12 #3,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12311.glb"
+},
+{
+    "name":"F-15E GBU-12 #4,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu12410.glb"
+},
+{
+    "name":"F-15E GBU-12 #5,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1259.glb"
+},
+{
+    "name":"F-15E GBU-12 #6,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu1268.glb"
+},
+{
+    "name":"F-15E GBU-12 #7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15egbu127.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
