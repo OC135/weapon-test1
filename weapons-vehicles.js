@@ -474,127 +474,127 @@
     "model": "https://OC135.github.io/test6/mk82f15j12.glb"
 },
     {
-    "name":"EA-18G",
+    "name":"E/A-18G",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ea18g.glb"
 },
 {
-    "name":"FA-18F AIM-9 #1,10",
+    "name":"F/A-18F AIM-9 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim9fa18e110.glb"
 },
 {
-    "name":"FA-18F AIM-9 #2,9",
+    "name":"F/A-18F AIM-9 #2,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim9fa18e29.glb"
 },
 {
-    "name":"FA-18F AIM-9 #3,8",
+    "name":"F/A-18F AIM-9 #3,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim9fa18e38.glb"
 },
 {
-    "name":"FA-18F AIM-9 #4,7",
+    "name":"F/A-18F AIM-9 #4,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim9fa18e47.glb"
 },
 {
-    "name":"FA-18F AIM-9 #5,6",
+    "name":"F/A-18F AIM-9 #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim9fa18e56.glb"
 },
 {
-    "name":"FA-18F AIM-120 #1,10",
+    "name":"F/A-18F AIM-120 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim120fa18e110.glb"
 },
 {
-    "name":"FA-18F AIM-120 #2,9",
+    "name":"F/A-18F AIM-120 #2,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim120fa18e29.glb"
 },
 {
-    "name":"FA-18F AIM-120 #3,8",
+    "name":"F/A-18F AIM-120 #3,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim120fa18e38.glb"
 },
 {
-    "name":"FA-18F AIM-120 #4,7",
+    "name":"F/A-18F AIM-120 #4,7",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim120fa18e47.glb"
 },
 {
-    "name":"FA-18F AIM-120 #5,6",
+    "name":"F/A-18F AIM-120 #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/aim120fa18e56.glb"
 },
 {
-    "name":"FA-18F GBU-32 #1,6",
+    "name":"F/A-18F GBU-32 #1,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu32fa18e16.glb"
 },
 {
-    "name":"FA-18F GBU-32 #2,5",
+    "name":"F/A-18F GBU-32 #2,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu32fa18e25.glb"
 },
 {
-    "name":"FA-18F GBU-32 #3,4",
+    "name":"F/A-18F GBU-32 #3,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu32fa18e34.glb"
 },
 {
-    "name":"FA-18F GBU-31 #1,5",
+    "name":"F/A-18F GBU-31 #1,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu31fa18e15.glb"
 },
 {
-    "name":"FA-18F GBU-31 #2,4",
+    "name":"F/A-18F GBU-31 #2,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu31fa18e24.glb"
 },
 {
-    "name":"FA-18F GBU-31 #3",
+    "name":"F/A-18F GBU-31 #3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/gbu31fa18e3.glb"
 },
 {
-    "name":"FA-18F fuel tank #1,5",
+    "name":"F/A-18F fuel tank #1,5",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ffa18e15.glb"
 },
 {
-    "name":"FA-18F fuel tank #2,4",
+    "name":"F/A-18F fuel tank #2,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ffa18e24.glb"
 },
 {
-    "name":"FA-18F fuel tank #3",
+    "name":"F/A-18F fuel tank #3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ffa18e3.glb"
 },
 {
-    "name":"FA-18F conformal fuel tank",
+    "name":"F/A-18F conformal fuel tank",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/ff18e6.glb"
