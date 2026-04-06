@@ -1500,6 +1500,66 @@
     "model": "https://OC135.github.io/test6/f15egbu127.glb"
 },
 {
+    "name":"F-15E AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaaq13.glb"
+},
+{
+    "name":"F-15E AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eaaq33.glb"
+},
+{
+    "name":"F-16C AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caaq13.glb"
+},
+{
+    "name":"F-16C AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16caaq33.glb"
+},
+{
+    "name":"F/A-18F AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18faaq13.glb"
+},
+{
+    "name":"F/A-18F AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f18faaq33.glb"
+},
+{
+    "name":"A-10C AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10caaq13.glb"
+},
+{
+    "name":"A-10C AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/a10caaq33.glb"
+},
+{
+    "name":"Rafale AN/AAQ-13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaleaaq13.glb"
+},
+{
+    "name":"Rafale AN/AAQ-33",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafaleaaq33.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
