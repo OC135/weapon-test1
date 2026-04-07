@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Weapon
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  Jetbridge Addon
-// @author     spice9
+// @version      1.0
+// @description  Weapon Addon
+// @author     spice9 AIS1697
 // @match https://*/geofs.php*
 // @run-at document-end
 // @grant        none
@@ -19,7 +19,7 @@ function loadJB()
     {
 geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf15e22.glb",
+"model": "https://OC135.github.io/test6/pf15e33.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
@@ -86,6 +86,16 @@ geofs.aircraft.instance.addParts([{
 );
     }
       else if(modelOption=="option8")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/pm2001.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
+      else if(modelOption=="option9")
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
@@ -243,10 +253,11 @@ listdiv.innerHTML = `
   <label><input type="radio" name="option" value="option2"  data-value="2">F-16C pylon</label><br>
   <label><input type="radio" name="option" value="option3"  data-value="3">A-10C pylon</label><br>
   <label><input type="radio" name="option" value="option4"  data-value="4">FA-18F pylon</label><br>
-  <label><input type="radio" name="option" value="option5"  data-value="5">Rafale pylon</label><br>
+  <label><input type="radio" name="option" value="option5"  data-value="5">RafaleM pylon</label><br>
   <label><input type="radio" name="option" value="option6"  data-value="6">F-15C pylon</label><br>
   <label><input type="radio" name="option" value="option7"  data-value="7">Su-35 pylon</label><br>
-  <label><input type="radio" name="option" value="option8"  data-value="8">F-2A pylon</label><br>
+  <label><input type="radio" name="option" value="option8"  data-value="8">Mirage2000-5 pylon</label><br>
+  <label><input type="radio" name="option" value="option9"  data-value="9">F-2A pylon</label><br>
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 ppylon</label><br>
   <label for="moveAmount">Move Amount:</label>
@@ -427,7 +438,7 @@ let rampRaiseCounter=0;
 let ramp_lower=0;
 
 let nameArr = [];
-fetch('https://raw.githubusercontent.com/OC135/weapon-test1/refs/heads/main/weapons-vehicles.js')
+fetch('https://raw.githubusercontent.com/OC135/weapon-addon/refs/heads/main/weapons-vehicles.js')
     .then(res => res.json())
     .then(data => {
         listData = data;
