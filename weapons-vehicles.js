@@ -1698,6 +1698,12 @@
     "model": "https://OC135.github.io/test6/a10cgbu106.glb"
 },
 {
+    "name":"N/A",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/aswjff2.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
