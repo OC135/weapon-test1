@@ -99,7 +99,7 @@ geofs.aircraft.instance.addParts([{
     {
     geofs.aircraft.instance.addParts([{
 "name":"pfd9",
-"model": "https://OC135.github.io/test6/pf5f2.glb",
+"model": "https://OC135.github.io/test6/pf5f3.glb",
 "position": [0,0,0],
 "rotation":[0,0,0]
 }]
