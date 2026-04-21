@@ -1887,7 +1887,7 @@
     "name":"UH-1H M60 #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/uh1hm601.glb"
+    "model": "https://OC135.github.io/test6/uh1hm602.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
