@@ -145,6 +145,16 @@ geofs.aircraft.instance.addParts([{
 }]
 );
     }
+      else if(modelOption=="option19")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/pac1822.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
 
 }
 let offset = 0;
@@ -282,6 +292,7 @@ listdiv.innerHTML = `
     <label><input type="radio" name="option" value="option16"  data-value="16">F-15J pylon</label><br>
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 ppylon</label><br>
     <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H ppylon</label><br>
+    <label><input type="radio" name="option" value="option19"  data-value="19">AC-182 ppylon</label><br>
   <label for="moveAmount">Move Amount:</label>
 <select id="moveAmount">
  <option value="0.05">0.05</option>
