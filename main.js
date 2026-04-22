@@ -155,6 +155,16 @@ geofs.aircraft.instance.addParts([{
 }]
 );
     }
+      else if(modelOption=="option20")
+    {
+    geofs.aircraft.instance.addParts([{
+"name":"pfd9",
+"model": "https://OC135.github.io/test6/puh60l1.glb",
+"position": [0,0,0],
+"rotation":[0,0,0]
+}]
+);
+    }
 
 }
 let offset = 0;
@@ -293,6 +303,7 @@ listdiv.innerHTML = `
     <label><input type="radio" name="option" value="option17"  data-value="17">T-4 pylon</label><br>
     <label><input type="radio" name="option" value="option18"  data-value="18">UH-1H pylon</label><br>
     <label><input type="radio" name="option" value="option19"  data-value="19">AC-182 pylon</label><br>
+    <label><input type="radio" name="option" value="option20"  data-value="20">UH-60L pylon</label><br>
   <label for="moveAmount">Move Amount:</label>
 <select id="moveAmount">
  <option value="0.05">0.05</option>
