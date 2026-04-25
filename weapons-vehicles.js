@@ -2001,13 +2001,25 @@
     "name":"F-15EX pylon2",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/pf15ex3.glb"
+    "model": "https://OC135.github.io/test6/pf15ex6.glb"
 },
 {
     "name":"F-15EX CFT",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/pf15ex4.glb"
+    "model": "https://OC135.github.io/test6/pf15ex5.glb"
+},
+{
+    "name":"F-15EX fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exf13.glb"
+},
+{
+    "name":"F-15EX fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exf2.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
