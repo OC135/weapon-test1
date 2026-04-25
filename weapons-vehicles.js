@@ -1998,6 +1998,18 @@
     "model": "https://OC135.github.io/test6/mq9bagm11423.glb"
 },
 {
+    "name":"F-15EX pylon2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/pf15ex3.glb"
+},
+{
+    "name":"F-15EX CFT",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/pf15ex4.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
