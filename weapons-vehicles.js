@@ -2007,7 +2007,7 @@
     "name":"F-15EX CFT",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/pf15ex5.glb"
+    "model": "https://OC135.github.io/test6/pf15ex7.glb"
 },
 {
     "name":"F-15EX fuel tank #1,3",
@@ -2020,6 +2020,48 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/f15exf2.glb"
+},
+{
+    "name":"F-15EX AIM-120 #1,14",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim120114.glb"
+},
+{
+    "name":"F-15EX AIM-120 #2,13",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim120213.glb"
+},
+{
+    "name":"F-15EX AIM-120 #3,12",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim120312.glb"
+},
+{
+    "name":"F-15EX AIM-120 #4,11",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim120411.glb"
+},
+{
+    "name":"F-15EX AIM-120 #5,10",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim120510.glb"
+},
+{
+    "name":"F-15EX AIM-120 #6,9",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim12069.glb"
+},
+{
+    "name":"F-15EX AIM-120 #7,8",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15exaim12078.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
