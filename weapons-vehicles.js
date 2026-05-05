@@ -2,7 +2,7 @@
     "name":"F-16C,F-2A AIM-9 #1,6",
     "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16caim916.glb"
+    "model": "https://OC135.github.io/test6/f16caim9161.glb"
 },
 {
     "name":"F-16C,F-2A AIM-9 #2,5",
@@ -20,7 +20,7 @@
     "name":"F-16C,F-2A AIM-120 #1,6",
     "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f16caim12016.glb"
+    "model": "https://OC135.github.io/test6/f16caim120161.glb"
 },
 {
     "name":"F-16C,F-2A AIM-120 #2,5",
