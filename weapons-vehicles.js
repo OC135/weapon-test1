@@ -483,13 +483,13 @@
     "name":"F/A-18F AIM-9 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aim9fa18e110.glb"
+    "model": "https://OC135.github.io/test6/aim9fa18e1101.glb"
 },
 {
     "name":"F/A-18F AIM-9 #2,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aim9fa18e29.glb"
+    "model": "https://OC135.github.io/test6/aim9fa18e291.glb"
 },
 {
     "name":"F/A-18F AIM-9 #3,8",
@@ -513,13 +513,13 @@
     "name":"F/A-18F AIM-120 #1,10",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aim120fa18e110.glb"
+    "model": "https://OC135.github.io/test6/aim120fa18e1101.glb"
 },
 {
     "name":"F/A-18F AIM-120 #2,9",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/aim120fa18e29.glb"
+    "model": "https://OC135.github.io/test6/aim120fa18e291.glb"
 },
 {
     "name":"F/A-18F AIM-120 #3,8",
@@ -543,7 +543,7 @@
     "name":"F/A-18F GBU-32 #1,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/gbu32fa18e16.glb"
+    "model": "https://OC135.github.io/test6/gbu32fa18e161.glb"
 },
 {
     "name":"F/A-18F GBU-32 #2,5",
@@ -1575,7 +1575,7 @@
     "name":"F/A-18F GBU-12 #1,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/f18fgbu1216.glb"
+    "model": "https://OC135.github.io/test6/f18fgbu12161.glb"
 },
 {
     "name":"F/A-18F GBU-12 #2,5",
