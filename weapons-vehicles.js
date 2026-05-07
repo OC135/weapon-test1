@@ -2154,6 +2154,42 @@
     "model": "https://OC135.github.io/test6/a10cgbu12562.glb"
 },
 {
+    "name":"VFA-11 fuel tank1 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f151.glb"
+},
+{
+    "name":"VFA-11 fuel tank1 #2,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f241.glb"
+},
+{
+    "name":"VFA-11 fuel tank1 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f31.glb"
+},
+{
+    "name":"VFA-11 fuel tank2 #1,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f152.glb"
+},
+{
+    "name":"VFA-11 fuel tank2 #2.4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f242.glb"
+},
+{
+    "name":"VFA-11 fuel tank2 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/vfa11f32.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
