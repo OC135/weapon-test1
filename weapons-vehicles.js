@@ -2250,6 +2250,12 @@
     "model": "https://OC135.github.io/test6/f35bgbu1223.glb"
 },
 {
+    "name":"F-35B AIM-9 pylon #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f35baim9pylon1.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
