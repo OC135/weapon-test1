@@ -2256,6 +2256,90 @@
     "model": "https://OC135.github.io/test6/f35baim9pylon1.glb"
 },
 {
+    "name":"F-16C B61 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cb611.glb"
+},
+{
+    "name":"F-16C B61 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cb612.glb"
+},
+{
+    "name":"F-16C B61 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cb613.glb"
+},
+{
+    "name":"F-16C B61 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f16cb614.glb"
+},
+{
+    "name":"F-15E B61 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eb611.glb"
+},
+{
+    "name":"F-15E B61 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eb612.glb"
+},
+{
+    "name":"F-15E B61 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eb613.glb"
+},
+{
+    "name":"F-15E B61 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eb614.glb"
+},
+{
+    "name":"F-15E B61 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/f15eb615.glb"
+},
+{
+    "name":"F/A-18F B61 #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb611.glb"
+},
+{
+    "name":"F/A-18F B61 #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb612.glb"
+},
+{
+    "name":"F/A-18F B61 #3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb613.glb"
+},
+{
+    "name":"F/A-18F B61 #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb614.glb"
+},
+{
+    "name":"F/A-18F B61 #5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/fa18fb615.glb"
+},
+{
     "name":"Airport Gate#4 level 2",
      "rotation":[0,0,0],
     "position":[0,0,0],
