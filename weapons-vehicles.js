@@ -2418,6 +2418,24 @@
     "model": "https://OC135.github.io/test6/m20dgp1.glb"
 },
 {
+    "name":"Miragee2000D Damocles pod #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20ddamocles1.glb"
+},
+{
+    "name":"Miragee2000D fuel tank #1,3",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20df13.glb"
+},
+{
+    "name":"Miragee2000D fuel tank #2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20df2.glb"
+},
+{
     "name":"Miragee2000N ASMP #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
