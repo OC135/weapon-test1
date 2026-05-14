@@ -1095,7 +1095,7 @@
     "name":"Rafale R.550 #3,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafaler55038.glb"
+    "model": "https://OC135.github.io/test6/rafaler550381.glb"
 },
 {
     "name":"Rafale R.550 #4,7",
@@ -1107,7 +1107,7 @@
     "name":"Rafale R.550 #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafaler55056.glb"
+    "model": "https://OC135.github.io/test6/rafaler550561.glb"
 },
 {
     "name":"Rafale MICA IR #1,10",
@@ -1125,7 +1125,7 @@
     "name":"Rafale MICA IR #3,8",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair38.glb"
+    "model": "https://OC135.github.io/test6/rafalemicair381.glb"
 },
 {
     "name":"Rafale MICA IR #4,7",
@@ -1137,13 +1137,13 @@
     "name":"Rafale MICA IR #5,6",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalemicair56.glb"
+    "model": "https://OC135.github.io/test6/rafalemicair561.glb"
 },
 {
     "name":"Rafale GBU-31 #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafalegbu3114.glb"
+    "model": "https://OC135.github.io/test6/rafalegbu31141.glb"
 },
 {
     "name":"Rafale GBU-31 #2,3",
@@ -1155,13 +1155,19 @@
     "name":"Rafale AASM #1,4",
      "rotation":[0,0,0],
     "position":[0,0,0],
-    "model": "https://OC135.github.io/test6/rafaleaasm14.glb"
+    "model": "https://OC135.github.io/test6/rafaleaasm141.glb"
 },
 {
     "name":"Rafale AASM #2,3",
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/rafaleaasm23.glb"
+},
+{
+    "name":"Rafale SCALP-EG #1,2",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/rafalescalpeg12.glb"
 },
 {
     "name":"Rafale fuel tank #1,3",
@@ -2338,6 +2344,78 @@
      "rotation":[0,0,0],
     "position":[0,0,0],
     "model": "https://OC135.github.io/test6/fa18fb615.glb"
+},
+{
+    "name":"Miragee2000D R.550 #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dr55016.glb"
+},
+{
+    "name":"Miragee2000D R.550 #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dr55025.glb"
+},
+{
+    "name":"Miragee2000D R.550 #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dr55034.glb"
+},
+{
+    "name":"Miragee2000D MICA IR #1,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dmicair16.glb"
+},
+{
+    "name":"Miragee2000D MICA IR #2,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dmicair25.glb"
+},
+{
+    "name":"Miragee2000D MICA IR #3,4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dmicair34.glb"
+},
+{
+    "name":"Miragee2000D AASM #1,7",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20daasm17.glb"
+},
+{
+    "name":"Miragee2000D AASM #2,6",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20daasm26.glb"
+},
+{
+    "name":"Miragee2000D AASM #3,5",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20daasm35.glb"
+},
+{
+    "name":"Miragee2000D AASM #4",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20daasm4.glb"
+},
+{
+    "name":"Miragee2000D SCALP-EG #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dscalpeg1.glb"
+},
+{
+    "name":"Miragee2000N ASMP #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20nasmp1.glb"
 },
 {
     "name":"Airport Gate#4 level 2",
