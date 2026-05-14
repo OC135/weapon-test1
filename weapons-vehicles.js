@@ -2412,6 +2412,12 @@
     "model": "https://OC135.github.io/test6/m20dscalpeg1.glb"
 },
 {
+    "name":"Miragee2000D gun pod #1",
+     "rotation":[0,0,0],
+    "position":[0,0,0],
+    "model": "https://OC135.github.io/test6/m20dgp1.glb"
+},
+{
     "name":"Miragee2000N ASMP #1",
      "rotation":[0,0,0],
     "position":[0,0,0],
